@@ -2,7 +2,7 @@
 
 **Source Path**: /home/ismailahammed/Documents/git-practice-mdismailahammedroman/README.md
 **Generated**: 2026-08-29
-**Total Tokens**: 80
+**Total Tokens**: 158
 
 ## Document Structure
 
@@ -11,7 +11,8 @@
 | preamble | 0-1 | 6 |  |
 | Project Title | 2-5 | 11 |  |
 | Author | 6-9 | 9 | Md. |
-| Description | 10-29 | 54 | This project is created to practice Git and GitHub... |
+| Features | 10-16 | 19 |  |
+| How to Run | 17-55 | 113 | python src/main. |
 
 ## Section Details
 
@@ -31,9 +32,14 @@
 - **Tokens**: 9
 - **Summary**: Md.
 
-### Description
+### Features
 
-- **Lines**: 10-29
-- **Tokens**: 54
-- **Summary**: This project is created to practice Git and GitHub fundamentals.
+- **Lines**: 10-16
+- **Tokens**: 19
+
+### How to Run
+
+- **Lines**: 17-55
+- **Tokens**: 113
+- **Summary**: python src/main.
 
