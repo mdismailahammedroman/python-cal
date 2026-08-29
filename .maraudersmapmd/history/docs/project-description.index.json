@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "snapshots": [
+    {
+      "id": "20260830-002934-956",
+      "filePath": "docs/project-description.md",
+      "timestamp": 1788028174990,
+      "isCheckpoint": false,
+      "hash": "59b93739aa1112a4a46236e2262c139480b37fbf3f80be36b3196687bea5b7da",
+      "sizeBytes": 22,
+      "compressed": false
+    },
+    {
+      "id": "20260830-002943-996",
+      "filePath": "docs/project-description.md",
+      "timestamp": 1788028184054,
+      "isCheckpoint": false,
+      "hash": "1e1ea74d32946766008e407deee9165bdc0dbf217e7b164cefc0e9e8a6478d48",
+      "sizeBytes": 379,
+      "compressed": false
+    }
+  ]
+}

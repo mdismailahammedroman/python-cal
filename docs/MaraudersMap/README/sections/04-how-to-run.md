@@ -1,19 +1,4 @@
-# Git Practice Project
-
-## Project Title
-
-Git & GitHub Practical Assignment
-
-## Author
-
-Md. Ismail Ahammed Roman
-
-## Features
-
-- Git version control
-- Branch management
-- Calculator functions
-- GitHub integration
+<!-- Section from: /home/ismailahammed/Documents/git-practice-mdismailahammedroman/README.md | Lines: 18-56 -->
 
 ## How to Run
 

@@ -1,4 +1,12 @@
-<!-- Section from: /home/ismailahammed/Documents/git-practice-mdismailahammedroman/README.md | Lines: 11-26 -->
+# Git Practice Project
+
+## Project Title
+
+Git & GitHub Practical Assignment
+
+## Author
+
+Md. Ismail Ahammed Roman
 
 ## Description
 
@@ -12,6 +20,3 @@ The project demonstrates:
 - Merging branches
 - Using GitHub repositories
 - Basic Python calculator functions
-
-
-

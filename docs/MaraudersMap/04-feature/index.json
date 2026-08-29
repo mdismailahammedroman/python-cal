@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "source": "/home/ismailahammed/Documents/git-practice-mdismailahammedroman/docs/MaraudersMap/README/sections/04-feature.md",
+  "generated": "2026-08-29T18:26:40.616Z",
+  "totalTokens": 33,
+  "entries": [
+    {
+      "section": "Features",
+      "slug": "features",
+      "lineRange": [
+        0,
+        6
+      ],
+      "tokens": 19,
+      "keywords": [],
+      "links": [],
+      "summary": "",
+      "aiHints": []
+    },
+    {
+      "section": "How to Run",
+      "slug": "how-to-run",
+      "lineRange": [
+        7,
+        10
+      ],
+      "tokens": 14,
+      "keywords": [],
+      "links": [],
+      "summary": "python src/main.",
+      "aiHints": []
+    }
+  ]
+}

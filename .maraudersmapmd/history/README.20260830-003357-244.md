@@ -8,18 +8,6 @@ Git & GitHub Practical Assignment
 
 Md. Ismail Ahammed Roman
 
-## Features
-
-- Git version control
-- Branch management
-- Calculator functions
-- GitHub integration
-
-## How to Run
-
-```bash
-python src/main.py
-
 # Project Description
 
 This project is a practical assignment for learning Git and GitHub.

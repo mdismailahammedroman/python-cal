@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source": "/home/ismailahammed/Documents/git-practice-mdismailahammedroman/README.md",
-  "generated": "2026-08-29T18:16:39.915Z",
-  "totalTokens": 72,
+  "generated": "2026-08-29T18:34:14.208Z",
+  "totalTokens": 152,
   "entries": [
     {
       "section": "Project Title",
@@ -31,16 +31,29 @@
       "aiHints": []
     },
     {
-      "section": "Description",
-      "slug": "description",
+      "section": "Features",
+      "slug": "features",
       "lineRange": [
         10,
-        21
+        16
       ],
-      "tokens": 52,
+      "tokens": 19,
       "keywords": [],
       "links": [],
-      "summary": "This project is created to practice Git and GitHub fundamentals.",
+      "summary": "",
+      "aiHints": []
+    },
+    {
+      "section": "How to Run",
+      "slug": "how-to-run",
+      "lineRange": [
+        17,
+        55
+      ],
+      "tokens": 113,
+      "keywords": [],
+      "links": [],
+      "summary": "python src/main.",
       "aiHints": []
     }
   ]
