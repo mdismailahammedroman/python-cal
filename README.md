@@ -20,3 +20,15 @@ The project demonstrates:
 - Merging branches
 - Using GitHub repositories
 - Basic Python calculator functions
+
+
+
+
+## Usage
+
+Run the application using:
+
+```bash
+python src/main.py
+
+
