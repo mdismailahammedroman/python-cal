@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "source": "/home/ismailahammed/Documents/git-practice-mdismailahammedroman/docs/project-description.md",
+  "generated": "2026-08-29T18:29:43.964Z",
+  "totalTokens": 58,
+  "entries": [
+    {
+      "section": "Purpose",
+      "slug": "purpose",
+      "lineRange": [
+        4,
+        14
+      ],
+      "tokens": 41,
+      "keywords": [],
+      "links": [],
+      "summary": "",
+      "aiHints": []
+    },
+    {
+      "section": "Calculator Features",
+      "slug": "calculator-features",
+      "lineRange": [
+        15,
+        21
+      ],
+      "tokens": 17,
+      "keywords": [],
+      "links": [],
+      "summary": "",
+      "aiHints": []
+    }
+  ]
+}
