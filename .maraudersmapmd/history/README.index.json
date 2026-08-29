@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "snapshots": [
+    {
+      "id": "20260830-001639-901",
+      "filePath": "README.md",
+      "timestamp": 1788027399986,
+      "isCheckpoint": false,
+      "hash": "3af41eb1b4cf4b1a4c5e8adba05d4a2d9886a71b0abfc3e40944e86257821c47",
+      "sizeBytes": 369,
+      "compressed": false
+    }
+  ]
+}
